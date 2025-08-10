@@ -31,5 +31,5 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3776AB&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=ashique1213&color=3776AB&style=flat" alt="views" />
 </p>
