@@ -1,8 +1,8 @@
-<h1 align="center">
+<h3 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">
   Hey, I'm <span style="color: #3776AB">MUHAMMED ASHIQUE</span>
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">
-</h1>
+</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&width=350&height=40&lines=Python+Full+Stack+Developer;Django+%2B+React+Expert" alt="Typing animation" />
