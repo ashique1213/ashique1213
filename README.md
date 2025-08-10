@@ -5,11 +5,11 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Full+Stack+Developer;Django+%2B+React+Expert;Self-Taught+%26+Passionate" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Full+Stack+Developer;Django+%2B+React+Expert;" alt="Typing animation" />
 </div>
 
 
-<div align="center">
+<div align="left">
 
 ### 🛠️ Tech Stack
 
@@ -38,23 +38,7 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-### 🎯 What I Do
-
-💻 **Full Stack Web Development** - End-to-end application development  
-🔗 **REST API Development** - Scalable backend services with Django REST Framework  
-⚡ **Real-time Applications** - WebSocket integration and background task processing  
-🎨 **Responsive UI/UX** - Modern, user-friendly React interfaces  
-☁️ **Cloud Deployment** - AWS, Docker containerization & deployment automation
-
-</div>
-
-<br>
-
-<div align="center">
+<div align="left">
 
 ### 🌐 Connect With Me
 
