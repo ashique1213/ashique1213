@@ -8,20 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Full+Stack+Developer;Django+%2B+React+Expert;Self-Taught+%26+Passionate" alt="Typing animation" />
 </div>
 
-<br>
-
-<div align="center">
-  
-### 🚀 About Me
-
-🔭 Building scalable web applications with **Python** & **Django**  
-⚡ Creating modern frontends with **React** & **JavaScript**  
-🌱 Self-taught developer with passion for clean, efficient code  
-💡 Focused on **MVT architecture** and **RESTful APIs**
-
-</div>
-
-<br>
 
 <div align="center">
 
