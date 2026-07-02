@@ -21,6 +21,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashique1213&color=3776AB&style=flat" alt="views" />
 </p>
-
-
-give me a better version
