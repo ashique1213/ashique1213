@@ -1,23 +1,47 @@
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">
-  Hey, I'm <span style="color: #3776AB">MUHAMMED ASHIQUE</span>
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">
-</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=3776AB&center=true&vCenter=true&width=350&height=40&lines=Python+Full+Stack+Developer;Django+%2B+React+Expert" alt="Typing animation" />
-</div>
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-Django_REST-ff1709?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:172a45,80:305cde,100:3776AB&height=280&section=header&text=Muhammed%20Ashique&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%C2%B7%20Django%20%26%20React%20Expert&descAlignY=58&descSize=18" alt="Header"/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](your-portfolio-url)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3776AB&center=true&vCenter=true&width=720&lines=Python+Full+Stack+Developer+%7C+Django+%26+React;Building+scalable+APIs%2C+real-time+apps+%26+robust+UIs;Python+%C2%B7+Django+%C2%B7+React+%C2%B7+Docker;From+concept+to+deployment)](https://git.io/typing-svg)
+
+<a href="your-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-ashique.dev-3776AB?style=for-the-badge&logoColor=white" /></a>
+&nbsp;
+<a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/ashique1213"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashique1213&label=Profile%20views&color=3776AB&style=for-the-badge" alt="Profile views" />
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashique1213&color=3776AB&style=flat" alt="views" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
+
+## 🧭 About
+
+I build high-performance backend systems and dynamic, responsive frontends. I focus on writing clean, maintainable Python code, building robust APIs with Django, and crafting seamless user interfaces with React.
+
+```yaml
+💼 Python Full Stack Developer
+🛠️ Core Focus: Scalable RESTful APIs, State Management, Database Optimization & Containerization
+📍 India
+🚀 Actively seeking Full Stack Developer / Backend SDE roles
+
+```
+
+## 🚀 Featured Projects
+
+## 💼 Experience
+
+## 🛠️ Tech Stack
+
+## 🌱 Beyond the Code
+
+When I'm not configuring API routes or fine-tuning database indexes, you can find me:
+
+* 🛠️ Exploring modern design patterns and system architecture paradigms.
+* 📚 Staying updated with the latest tools and packages in both the Django and React ecosystems.
+* ☕ Tinkering with automated scripts to optimize my daily coding workflow.
