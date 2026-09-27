@@ -102,18 +102,6 @@ I enjoy turning ideas into production-ready applications — from backend archit
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-E94560?style=flat-square)
 
 </div>
-
-Currently learning and building with:
-
-* Machine Learning fundamentals
-* NumPy & Pandas
-* Scikit-learn
-* Large Language Models
-* Generative AI
-* Retrieval-Augmented Generation
-* AI Agents & Agentic AI
-* LangChain / LangGraph
-
 ---
 
 ## ⚙️ What I Build
