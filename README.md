@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=20\&pause=1200\&color=E94560\&center=true\&vCenter=true\&width=720\&lines=Python+Full+Stack+Developer;Django+%C2%B7+DRF+%C2%B7+React;Building+Scalable+Web+Applications;Backend+%26+AI+Enthusiast)](https://git.io/typing-svg)
 
 <a href="https://github.com/ashique1213">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ashique1213-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/">
@@ -51,79 +51,36 @@ I enjoy turning ideas into production-ready applications — from backend archit
 <th align="left" width="250">Stack</th>
 </tr>
 </thead>
-
 <tbody>
 
 <tr>
 <td><strong>🎓 ClassSphere</strong></td>
-<td>
-Virtual Classroom Management System with classroom management, student invitations, meetings, attendance, study materials, OMR exams, subscriptions and real-time chat.
-</td>
-<td>
-<code>Django</code>
-<code>DRF</code>
-<code>React</code>
-<code>PostgreSQL</code>
-<code>Redis</code>
-<code>Celery</code>
-<code>WebSockets</code>
-</td>
+<td>Virtual Classroom Management System with classroom management, student invitations, meetings, attendance, study materials, OMR exams, subscriptions and real-time chat.</td>
+<td><code>Django</code> <code>DRF</code> <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>WebSockets</code></td>
 </tr>
 
 <tr>
 <td><strong>🛍️ BRAT Men's Clothing</strong></td>
-<td>
-Full-stack e-commerce platform with customer and product management, shopping flow, payments, sales reporting and an admin dashboard.
-</td>
-<td>
-<code>Django</code>
-<code>PostgreSQL</code>
-<code>Razorpay</code>
-<code>AWS</code>
-<code>Celery</code>
-<code>Redis</code>
-</td>
+<td>Full-stack e-commerce platform with customer and product management, shopping flow, payments, sales reporting and an admin dashboard.</td>
+<td><code>Django</code> <code>PostgreSQL</code> <code>Razorpay</code> <code>AWS</code> <code>Celery</code> <code>Redis</code></td>
 </tr>
 
 <tr>
 <td><strong>🔖 Smart Bookmark App</strong></td>
-<td>
-Modern bookmark management application with real-time updates and a responsive frontend architecture.
-</td>
-<td>
-<code>Next.js</code>
-<code>Supabase</code>
-<code>React</code>
-<code>TypeScript</code>
-</td>
+<td>Modern bookmark management application with real-time updates and a responsive frontend architecture.</td>
+<td><code>Next.js</code> <code>Supabase</code> <code>React</code> <code>TypeScript</code></td>
 </tr>
 
 <tr>
 <td><strong>📦 Order Management System</strong></td>
-<td>
-Automated order management system that monitors mailbox confirmations, detects order-related emails and updates order status using asynchronous processing and LLM-based detection.
-</td>
-<td>
-<code>Django</code>
-<code>Celery</code>
-<code>IMAP</code>
-<code>LLM</code>
-<code>PostgreSQL</code>
-</td>
+<td>Automated order management system that monitors mailbox confirmations, detects order-related emails and updates order status using asynchronous processing and LLM-based detection.</td>
+<td><code>Django</code> <code>Celery</code> <code>IMAP</code> <code>LLM</code> <code>PostgreSQL</code></td>
 </tr>
 
 <tr>
 <td><strong>📝 Blog Platform</strong></td>
-<td>
-Medium-style blogging platform with authentication, content management, REST APIs, media handling and a modern React frontend.
-</td>
-<td>
-<code>Django</code>
-<code>DRF</code>
-<code>React</code>
-<code>PostgreSQL</code>
-<code>Cloudinary</code>
-</td>
+<td>Medium-style blogging platform with authentication, content management, REST APIs, media handling and a modern React frontend.</td>
+<td><code>Django</code> <code>DRF</code> <code>React</code> <code>PostgreSQL</code> <code>Cloudinary</code></td>
 </tr>
 
 </tbody>
@@ -135,7 +92,6 @@ Medium-style blogging platform with authentication, content management, REST API
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <table>
 <thead>
 <tr>
@@ -145,43 +101,34 @@ Medium-style blogging platform with authentication, content management, REST API
 <th align="center">Database & DevOps</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
-
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,ts" width="110"/>
-
 </td>
-
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=django,fastapi" width="100"/>
-
 <br/>
-
-<code>Django REST Framework</code> <br/> <code>JWT</code> <br/> <code>WebSockets</code>
-
+<code>Django REST Framework</code>
+<br/>
+<code>JWT</code>
+<br/>
+<code>WebSockets</code>
 </td>
-
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" width="140"/>
-
 </td>
-
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=postgresql,redis,docker,aws,git,github" width="180"/>
-
 </td>
-
 </tr>
 </tbody>
 </table>
+</div>
 
 <br/>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
@@ -253,29 +200,21 @@ Currently learning and building with:
 │                    DEVOPS & DEPLOYMENT                    │
 ├──────────────────────────────────────────────────────────┤
 │  Docker                 │  AWS                           │
-│  Git / GitHub            │  Linux                         │
+│  Linux                  │  Git / GitHub                   │
 │  Redis                  │  CI/CD                         │
 └──────────────────────────────────────────────────────────┘
 ```
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=ashique1213&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashique1213&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
 </div>
-
 <br/>
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashique1213&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashique1213&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -322,7 +261,6 @@ AI:
 ```
 
 ---
-
 ## 🌱 Beyond the Code
 
 I enjoy building projects that solve practical problems and help me learn by doing.
@@ -332,7 +270,6 @@ My current interests include **backend engineering, scalable web applications, A
 I'm continuously improving my skills through projects, experimentation, and real-world development.
 
 ---
-
 <div align="center">
 
 ### 💻 Building. Learning. Shipping.
@@ -342,9 +279,6 @@ I'm continuously improving my skills through projects, experimentation, and real
 <a href="https://github.com/ashique1213">
 <img src="https://img.shields.io/badge/GitHub-ashique1213-181717?style=for-the-badge&logo=github"/>
 </a>
-
 <br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:0f3460,100:0d0221&height=120&section=footer" alt="Footer"/>
-
 </div>
