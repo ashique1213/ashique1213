@@ -102,8 +102,6 @@ I enjoy turning ideas into production-ready applications — from backend archit
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-E94560?style=flat-square)
 
 </div>
----
-
 ## ⚙️ What I Build
 
 <div align="center">
@@ -160,13 +158,6 @@ CI/CD
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashique1213&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashique1213&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
-<br/>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashique1213&theme=tokyonight&hide_border=true"/>
@@ -238,8 +229,6 @@ I'm continuously improving my skills through projects, experimentation, and real
 <div align="center">
 
 ### 💻 Building. Learning. Shipping.
-
-<a href="https://github.com/ashique1213"><img src="https://img.shields.io/badge/GitHub-ashique1213-181717?style=for-the-badge&logo=github"/></a>
 
 <br/><br/>
 
