@@ -16,7 +16,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider"/>
 
-## 🧭 About
+## About
 
 I build **scalable web applications and backend systems** using Python and Django, with a strong focus on REST APIs, databases, asynchronous processing, real-time communication, and modern frontend development.
 
@@ -157,61 +157,10 @@ CI/CD
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashique1213&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<thead>
-<tr>
-<th align="left" width="220">Project</th>
-<th align="left" width="380">What it does</th>
-<th align="left" width="250">Stack</th>
-</tr>
-</thead>
-<tbody>
-
-<tr>
-<td><strong>🎓 ClassSphere</strong></td>
-<td>Virtual Classroom Management System with classroom management, student invitations, meetings, attendance, study materials, OMR exams, subscriptions and real-time chat.</td>
-<td><code>Django</code> <code>DRF</code> <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>Celery</code> <code>WebSockets</code></td>
-</tr>
-
-<tr>
-<td><strong>🛍️ BRAT Men's Clothing</strong></td>
-<td>Full-stack e-commerce platform with customer and product management, shopping flow, payments, sales reporting and an admin dashboard.</td>
-<td><code>Django</code> <code>PostgreSQL</code> <code>Razorpay</code> <code>AWS</code> <code>Celery</code> <code>Redis</code></td>
-</tr>
-
-<tr>
-<td><strong>🔖 Smart Bookmark App</strong></td>
-<td>Modern bookmark management application with real-time updates and a responsive frontend architecture.</td>
-<td><code>Next.js</code> <code>Supabase</code> <code>React</code> <code>TypeScript</code></td>
-</tr>
-
-<tr>
-<td><strong>📦 Order Management System</strong></td>
-<td>Automated order management system that monitors mailbox confirmations, detects order-related emails and updates order status using asynchronous processing and LLM-based detection.</td>
-<td><code>Django</code> <code>Celery</code> <code>IMAP</code> <code>LLM</code> <code>PostgreSQL</code></td>
-</tr>
-
-<tr>
-<td><strong>📝 Blog Platform</strong></td>
-<td>Medium-style blogging platform with authentication, content management, REST APIs, media handling and a modern React frontend.</td>
-<td><code>Django</code> <code>DRF</code> <code>React</code> <code>PostgreSQL</code> <code>Cloudinary</code></td>
-</tr>
-
-</tbody>
-</table>
-
 </div>
 
 ---
