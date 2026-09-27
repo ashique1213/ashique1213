@@ -102,6 +102,9 @@ I enjoy turning ideas into production-ready applications — from backend archit
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-E94560?style=flat-square)
 
 </div>
+
+---
+
 ## ⚙️ What I Build
 
 <div align="center">
